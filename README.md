@@ -1,16 +1,22 @@
-# glance_at
 
-A new Flutter project.
+# GlanceAt
 
-## Getting Started
+A Flutter Wallpaper App
 
-This project is a starting point for a Flutter application.
+## API Used
 
-A few resources to get you started if this is your first Flutter project:
+https://www.pexels.com/api/
+## Home
+![Screenshot_1622745239 (1)](https://user-images.githubusercontent.com/74535459/120695839-76785400-c4c9-11eb-9e42-707620875d68.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Search Option
+![Screenshot_1622745257](https://user-images.githubusercontent.com/74535459/120695951-94de4f80-c4c9-11eb-8f3f-d6b2b10b775f.png)
+
+
+## Preview Screen 
+with Download button
+
+![Screenshot_1622745269](https://user-images.githubusercontent.com/74535459/120695997-a6275c00-c4c9-11eb-8a1a-b5db7645c7a7.png)
+
+
